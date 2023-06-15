@@ -1,0 +1,287 @@
+body{
+    background-image: url(Strawberries-delicious-fruit-black-background_1920x1080.jpg);
+    background-size: cover;
+}
+
+.one{
+    color: #A5342A;
+}
+
+.header-bg{
+    background-image: url(Rectangle\ 27.png);
+    background-size: cover;
+}
+.case, .case-rose{
+    background-image: url(Rectangle\ 40.png);
+    height: 370px;
+}
+
+.case button{
+    height: 60px;
+    width: 170;
+    background-color: #A5342A;
+    border: none;
+}
+
+
+.photo1{
+    background-image: url(unsplash_GFrBMipOd_E.png);
+    background-size: cover;
+    height: 577px;
+}
+
+.rectangle-rose{
+    background-image: url(Rectangle\ 43.png);
+    background-size: cover;
+    height: 300px;
+    width: 100px;
+}
+
+.rectangle{
+    border: 1px solid white;
+}
+.rectangle_bg{
+    background-image: url(Rectangle\ 27.png);
+}
+
+.footer{
+    background-image: url(Rectangle\ 39.png);
+    height: 135px;
+}
+
+
+
+
+.photo2{
+    background-image: url(unsplash_poI7DelFiVA.png);
+    height: 410px;
+}
+
+
+
+
+.case-rose3{
+    background-image: url(Rectangle\ 40.png);
+    height: 200px;
+}
+
+.photo3{
+    background-image: url(unsplash_Mzy-OjtCI70.png);
+    height: 600px;
+}
+
+.photo4{
+    background-image: url(unsplash_MXovqM130UI.png);
+    height: 600px;
+}
+
+.photo5{
+    background-image: url(unsplash_Mzy-OjtCI70.png);
+    height: 600px;
+}
+
+
+.icone{
+    border-radius: 40%;
+    background-color: black;
+}
+
+.casep2{
+    position: relative;
+    left: 100px;
+}
+.casep3{
+    position: relative;
+    bottom: 100px;
+}
+
+.casep31{
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+.casep32{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+}
+
+.time1{
+    position: relative;
+    right: -1040px;
+}
+
+.time2{
+    position: relative;
+    left: 420px;
+}
+.time3{
+    position: relative;
+    left: 460px;
+}
+
+
+.trait{
+    border-bottom: 1px solid black;
+}
+
+.case-rosep4{
+    background-image: url(Rectangle\ 40.png);
+    height: 700px;
+}
+
+@media (max-width:1999px){
+    .time1{
+        position: relative;
+        left: 320px;
+    }
+    
+    .time2{
+        position: relative;
+        left: 300px;
+    }
+    .time3{
+        position: relative;
+        left: 340px;
+    }
+}
+@media (max-width:991px) {
+    .case{
+        width: 500px;
+        height: 400px;
+    }
+   
+.case-rose{
+    background-image: url(Rectangle\ 40.png);
+    height: 500px;
+}
+
+.rectangle-rose{
+    height: 500px;
+}
+
+.time1{
+    position: relative;
+    left: 160px;
+}
+
+.time2{
+    position: relative;
+    left: 140px;
+}
+.time3{
+    position: relative;
+    left: 180px;
+}
+}
+
+@media (max-width:767px) {
+    
+.casep2{
+    position: relative;
+    left: 0px;
+    margin-bottom: 50px;
+}
+.casep3{
+    position: relative;
+    bottom: 0px;
+    top: 50px;
+}
+
+.casep31{
+    position: relative;
+    right: 0px;
+}
+.casep32{
+    position: relative;
+    left: 0px;
+}
+
+.time1{
+    position: relative;
+    left: 315px;
+}
+
+.time2{
+    position: relative;
+    left: 290px;
+}
+.time3{
+    position: relative;
+    left: 340px;
+}
+
+}
+
+@media (max-width: 530px) {
+    .time1{
+        position: relative;
+        left: 300px;
+    }
+    
+    .time2{
+        position: relative;
+        left: 280px;
+    }
+    .time3{
+        position: relative;
+        left: 320px;
+    }
+}
+@media (max-width: 510px) {
+    .time1{
+        position: relative;
+        left: 270px;
+    }
+    
+    .time2{
+        position: relative;
+        left: 250px;
+    }
+    .time3{
+        position: relative;
+        left: 290px;
+    }
+}
+
+@media (max-width:400px) {
+   
+    .case-rose{
+        background-image: url(Rectangle\ 40.png);
+        height: 700px;
+    }
+
+    
+.rectangle-rose{
+    height: 600px;
+}
+.time1{
+    position: relative;
+    left: 170px;
+}
+
+.time2{
+    position: relative;
+    left: 150px;
+}
+.time3{
+    position: relative;
+    left: 190px;
+}
+    }
+
+    @media (max-width: 395px) {
+        .time1{
+            position: relative;
+            left: 170px;
+        }
+        
+        .time2{
+            position: relative;
+            left: 150px;
+        }
+        .time3{
+            position: relative;
+            left: 190px;
+        }
+    }
